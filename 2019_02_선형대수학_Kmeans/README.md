@@ -9,3 +9,4 @@
 언어 : C<br>
 
 ## 스크린샷
+<img src = "https://user-images.githubusercontent.com/50845305/122421294-3cc64380-cfc7-11eb-97d5-405d6ba0583b.PNG">
