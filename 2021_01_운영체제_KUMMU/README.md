@@ -3,6 +3,7 @@ MMU 흉내내보기
 
 ## 목표
 OS Level에서 이루어지는 MMU 작동 원리를 이해한다. (Swapping 등)<br>
+ku_cpu 제공. ku_mmu만 구현 (ku_cpu.c및 ku_trav.o는 CPU 역할 수행. BlackBox로 생각하면 됨)<br>
 
 ## 환경
 언어 : C<br>
