@@ -7,7 +7,7 @@
 * 단, 프로젝트 과목 제외
 
 ## <목록>
-2019-2 | 선형대수학 | K-means Clustering
-2019-2 | 선형대수학 | IRIS Classification
-2021-1 | 운영체제 | KU_MMU
-2021-1 | 운영체제 | KU_FS
+2019-2 | 선형대수학 | K-means Clustering<br>
+2019-2 | 선형대수학 | IRIS Classification<br>
+2021-1 | 운영체제 | KU_MMU<br>
+2021-1 | 운영체제 | KU_FS<br>
